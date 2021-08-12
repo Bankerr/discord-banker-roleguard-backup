@@ -12,4 +12,6 @@ tokenler Yazan Yere İstediğiniz Kadar Dağıtıcı Token Ekleyebilirsiniz ve a
 
 ❯ Sunuucda Rol Silince Rolü Geri Açıp Senin Belirttiğin Bot'lar İle Roller'i Dağıtıyor Ve Kanal İzinlerini Ayarlayıp Üyeyi Banlıyor!
 
+❯ Piyasadaki Birçok Backup Botundan Daha Hızlı Rol Dağıtır 1 Rolü 1 Bot 250 Üyeye 5dakikada Dağıtıyor
+
 (Çok Özellik Yok Gibi Gözükebilir Ama Bu RoleBackup Botu Guard Bot Değil Bu)
