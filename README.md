@@ -10,8 +10,6 @@ tokenler Yazan Yere İstediğiniz Kadar Dağıtıcı Token Ekleyebilirsiniz ve a
 
 # Botun Özellikleri
 
-❯ Sunucuda Rol Silince Logluyor!
-
-❯ Sunuucda Rol Silince Rolü Geri Açıp Senin Belirttiğin Bot'lar İle Roller'i Dağıtıyor Ve Kanal İzinleri Ayarlıyor!
+❯ Sunuucda Rol Silince Rolü Geri Açıp Senin Belirttiğin Bot'lar İle Roller'i Dağıtıyor Ve Kanal İzinlerini Ayarlayıp Üyeyi Banlıyor!
 
 (Çok Özellik Yok Gibi Gözükebilir Ama Bu RoleBackup Botu Guard Bot Değil Bu)
