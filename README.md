@@ -10,7 +10,7 @@ tokenler Yazan Yere İstediğiniz Kadar Dağıtıcı Token Ekleyebilirsiniz ve a
 
 # Botun Özellikleri
 
-❯ Sunuucda Rol Silince Rolü Geri Açıp Senin Belirttiğin Bot'lar İle Roller'i Dağıtıyor Ve Kanal İzinlerini Ayarlayıp Üyeyi Banlıyor!
+❯ Sunuucda Rol Silince Rolü Geri Açıp Senin Belirttiğin Bot'lar İle Roller'i Dağıtıyor Ve Kanal İzinlerini Ayarlıyor!
 
 ❯ Piyasadaki Birçok Backup Botundan Daha Hızlı Rol Dağıtır 1 Rolü 1 Bot 250 Üyeye 5dakikada Dağıtıyor
 
