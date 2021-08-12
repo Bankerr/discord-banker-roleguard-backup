@@ -7,7 +7,8 @@ Bot 25 Star Olduğunda Paylaşılacaktır!
 
 # Bot Nasıl Çalışır
 
-![image](https://user-images.githubusercontent.com/85123990/129130136-c4578d0b-f947-4696-a2a0-ef1df4d490fa.png) tokenler Yazan Yere İstediğiniz Kadar Dağıtıcı Token Ekleyebilirsiniz ve ayarlar Yazan Yeri Doldurup Rahatlıkla Kullanabilirsiniz 
+![image](https://user-images.githubusercontent.com/85123990/129130136-c4578d0b-f947-4696-a2a0-ef1df4d490fa.png)
+tokenler Yazan Yere İstediğiniz Kadar Dağıtıcı Token Ekleyebilirsiniz ve ayarlar Yazan Yeri Doldurup Rahatlıkla Kullanabilirsiniz 
 
 # Botun Özellikleri
 
