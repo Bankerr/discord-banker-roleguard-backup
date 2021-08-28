@@ -1,6 +1,7 @@
 # Bot Ne Zaman Paylaşılacak? 
 Bot 25 Star Olduğunda Paylaşılacaktır!
-25 Star Olduğunda Discorddan Yazabilirsiniz İsmim: ! Banker Râte.#1993 ID: (827285031323697168)
+Paylaşımdan Anında Haber Almak İçin Takip Edebilirsin
+25 Star Olduğunda Discorddan Yazabilirsiniz İsmim: ^ Banker.#1787 ID: (827285031323697168)
 
 # Bot Nasıl Çalışır
 
