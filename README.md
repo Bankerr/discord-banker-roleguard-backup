@@ -3,6 +3,7 @@ Bot 25 Star Olduğunda Paylaşılacaktır!
 Paylaşımdan Anında Haber Almak İçin Takip Edebilirsin
 25 Star Olduğunda Discorddan Yazabilirsiniz İsmim: ^ Banker.#1787 ID: (827285031323697168)
 
+<img src="https://komarev.com/ghpvc/?username=discord-roleguard-backup-main&label=Ziyaretçi%20Sayısı&color=da004e" alt="Bankerr/discord-roleguard-backup/edit/main/" /> <p>
 # Bot Nasıl Çalışır
 
 ![image](https://user-images.githubusercontent.com/85123990/131266783-849aecf6-3dd3-4b13-a5f4-9252f8bb067b.png)
