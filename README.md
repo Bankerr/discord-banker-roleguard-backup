@@ -5,7 +5,8 @@ Paylaşımdan Anında Haber Almak İçin Takip Edebilirsin
 
 # Bot Nasıl Çalışır
 
-![image](https://user-images.githubusercontent.com/85123990/129130136-c4578d0b-f947-4696-a2a0-ef1df4d490fa.png)
+![image](https://user-images.githubusercontent.com/85123990/131266783-849aecf6-3dd3-4b13-a5f4-9252f8bb067b.png)
+
 
 tokenler Yazan Yere İstediğiniz Kadar Dağıtıcı Token Ekleyebilirsiniz ve ayarlar Yazan Yeri Doldurup Rahatlıkla Kullanabilirsiniz 
 
