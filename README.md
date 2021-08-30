@@ -1,7 +1,7 @@
 # Bot Ne Zaman Paylaşılacak? 
-Bot 25 Star Olduğunda Paylaşılacaktır!
+Bot 25 10 Fork Star Olduğunda Paylaşılacaktır!
 Paylaşımdan Anında Haber Almak İçin Takip Edebilirsin
-25 Star Olduğunda Discorddan Yazabilirsiniz İsmim: ^ Banker.#1787 ID: (827285031323697168)
+25 Star 10 Fork Olduğunda Discorddan Yazabilirsiniz İsmim: ^ Banker.#1787 ID: (827285031323697168)
 
 <img src="https://komarev.com/ghpvc/?username=discord-roleguard-backup-main&label=Ziyaretçi%20Sayısı&color=da004e" alt="Bankerr/discord-roleguard-backup/edit/main/" /> <p>
 # Bot Nasıl Çalışır
