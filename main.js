@@ -1,1 +1,1 @@
-25 star 10 fork olduğunda paylaşılacaktır
+30 star 10 fork olduğunda paylaşılacaktır
