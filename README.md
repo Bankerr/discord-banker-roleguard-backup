@@ -4,6 +4,7 @@ Paylaşımdan Anında Haber Almak İçin Takip Edebilirsin
 30 Star 10 Fork Olduğunda Discorddan Yazabilirsiniz İsmim: bankerveîn.#2529 ID: (827285031323697168)
 ## Diğer Botlarım
 https://github.com/Bankerr/discord-usertoken-backup
+
 https://github.com/Bankerr/discord-banker-guardbot Bakmaya ne dersin
 
 <img src="https://komarev.com/ghpvc/?username=discord-roleguard-backup-main&label=Ziyaretçi%20Sayısı&color=da004e" alt="Bankerr/discord-roleguard-backup/edit/main/" /> <p>
