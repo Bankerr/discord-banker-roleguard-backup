@@ -7,7 +7,6 @@ https://github.com/Bankerr/discord-usertoken-backup
 
 https://github.com/Bankerr/discord-banker-guardbot Bakmaya ne dersin
 
-<img src="https://komarev.com/ghpvc/?username=discord-roleguard-backup-main&label=Ziyaretçi%20Sayısı&color=da004e" alt="Bankerr/discord-roleguard-backup/edit/main/" /> <p>
 # Bot Nasıl Çalışır
 
 ![image](https://user-images.githubusercontent.com/85123990/131266783-849aecf6-3dd3-4b13-a5f4-9252f8bb067b.png)
@@ -22,3 +21,5 @@ tokenler Yazan Yere İstediğiniz Kadar Dağıtıcı Token Ekleyebilirsiniz ve a
 ❯ Piyasadaki Birçok Backup Botundan Daha Hızlı Rol Dağıtır 
 
 (Çok Özellik Yok Gibi Gözükebilir Ama Bu RoleBackup Botu Guard Bot Değil Bu)
+
+<img src="https://komarev.com/ghpvc/?username=discord-roleguard-backup-main&label=Ziyaretçi%20Sayısı&color=da004e" alt="Bankerr/discord-roleguard-backup/edit/main/" /> <p>
