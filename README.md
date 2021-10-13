@@ -1,7 +1,7 @@
 # Bot Ne Zaman Paylaşılacak? 
 Bot 50 Star 10 Fork  Olduğunda Paylaşılacaktır! (çok fazla yan hesap olduğu için)
 Paylaşımdan Anında Haber Almak İçin Takip Edebilirsin
-50 Star 10 Fork Olduğunda Discorddan Yazabilirsiniz İsmim: Banker.#2529
+50 Star 10 Fork Olduğunda Discorddan Yazabilirsiniz İsmim: ' Banker.#2529
 ## Diğer Botlarım
 https://github.com/Bankerr/discord-usertoken-backup
 
