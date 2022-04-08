@@ -1,7 +1,4 @@
-# Bot Ne Zaman Paylaşılacak? 
-Bot 50 Star 10 Fork  Olduğunda Paylaşılacaktır! (çok fazla yan hesap olduğu için)
-Paylaşımdan Anında Haber Almak İçin Takip Edebilirsin
-50 Star 10 Fork Olduğunda Discorddan Yazabilirsiniz İsmim: ' Banker.#2529
+**star atmayan ermeni**
 ## Diğer Botlarım
 https://github.com/Bankerr/discord-usertoken-backup
 
@@ -9,11 +6,11 @@ https://github.com/Bankerr/discord-banker-guardbot Bakmaya ne dersin
 
 # Bot Nasıl Çalışır
 
-![image](https://user-images.githubusercontent.com/85123990/131266783-849aecf6-3dd3-4b13-a5f4-9252f8bb067b.png)
+config dolduruyon
 
+npm i yapiyon modülleri indiriyon sonra node . yaziyon baslatiyon
 
-tokenler Yazan Yere İstediğiniz Kadar Dağıtıcı Token Ekleyebilirsiniz ve ayarlar Yazan Yeri Doldurup Rahatlıkla Kullanabilirsiniz 
-
+**Yardım isteyenler için discord.gg/serendia gelebilirsiniz**
 # Botun Özellikleri
 
 ❯ Sunucuda Rol Silince Rolü Geri Açıp Senin Belirttiğin Bot'lar İle Roller'i Dağıtıyor Ve Kanal İzinlerini Ayarlıyor!
