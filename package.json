@@ -1,0 +1,19 @@
+{
+  "name": "angels",
+  "version": "1.0.0",
+  "description": "Discord Banker Guard/Backup Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "Banker"
+  ],
+  "author": "Banker",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.2",
+    "mongoose": "^6.2.10"
+  }
+}

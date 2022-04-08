@@ -1,0 +1,15 @@
+﻿{
+"WhiteList":["WhitelistMember","WhitelistRole"],
+"Bots":["WhitelistBots"],
+"ServerID":"ServerID",
+"GuardActivity":"Status ❤️",
+"DatabaseLogName":"database-log",
+"mongourl":"MongoURL",
+"Dagıtıcılar": [
+    "DatabaseBots",
+    "DatabaseBots"
+],
+"DatabaseToken":"DatabaseBot",
+"botPrefix":"Prefix",
+"BotOwner":"Owner"
+}
