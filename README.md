@@ -1,4 +1,3 @@
-**star atmayan ermeni**
 ## Diğer Botlarım
 https://github.com/Bankerr/discord-usertoken-backup
 
