@@ -17,7 +17,7 @@ client.on("ready", async () => {
   }, 1000*60*60*1);
 });
 
-mongoose.connect(config.mongourl, { useNewUrlParser: true, useUnifiedTopology: true }).catch(err =>  console.log('[MODERASYON] Database bağlanamadı!!'));
+mongoose.connect(config.mongourl, { useNewUrlParser: true, useUnifiedTopology: true }).catch(err =>  console.log('[Banker] Database bağlanamadı!!'));
 
   let Tokens = config.Dagıtıcılar;
   
